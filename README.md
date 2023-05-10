@@ -1,2 +1,2 @@
 # Fake News Detector
-A repository of my analytics projects
+A project on using data analytics and Python to detect fake news
